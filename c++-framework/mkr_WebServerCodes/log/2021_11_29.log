@@ -1,0 +1,7 @@
+2021-11-29 13:23:03.684837 [info] : ========== Server init ==========
+2021-11-29 13:23:03.684858 [info] : Port:1316, OpenLinger: false
+2021-11-29 13:23:03.684862 [info] : Listen Mode: ET, OpenConn Mode: ET
+2021-11-29 13:23:03.684909 [info] : LogSys level: 1
+2021-11-29 13:23:03.684914 [info] : srcDir: /home/xiaonai/WebServer-update/resources/
+2021-11-29 13:23:03.684971 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2021-11-29 13:23:03.684985 [info] : ========== Server start ==========

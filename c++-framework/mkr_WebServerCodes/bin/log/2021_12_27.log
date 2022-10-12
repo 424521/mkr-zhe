@@ -1,0 +1,23 @@
+2021-12-27 18:42:15.035443 [info] : ========== Server init ==========
+2021-12-27 18:42:15.035468 [info] : Port:1316, OpenLinger: false
+2021-12-27 18:42:15.035472 [info] : Listen Mode: ET, OpenConn Mode: ET
+2021-12-27 18:42:15.035475 [info] : LogSys level: 1
+2021-12-27 18:42:15.035572 [info] : srcDir: /home/xiaonai/WebServer-update/bin/resources/
+2021-12-27 18:42:15.035596 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2021-12-27 18:42:15.035642 [info] : ========== Server start ==========
+2021-12-27 18:43:45.085221 [info] : Client[6](220.181.41.13:58578) in, userCount:1
+2021-12-27 18:43:45.085324 [info] : Client[6] in!
+2021-12-27 18:43:45.086246 [info] : Client[7](220.181.41.13:58834) in, userCount:2
+2021-12-27 18:43:45.086313 [info] : Client[7] in!
+2021-12-27 18:43:45.087178 [info] : Client[6] quit!
+2021-12-27 18:43:45.087242 [info] : Client[6](220.181.41.13:58578) quit, UserCount:1
+2021-12-27 18:44:03.644074 [info] : Client[6](220.181.41.13:59858) in, userCount:2
+2021-12-27 18:44:03.644148 [info] : Client[6] in!
+2021-12-27 18:45:03.667181 [info] : Client[6] quit!
+2021-12-27 18:45:03.667311 [info] : Client[6](220.181.41.13:59858) quit, UserCount:1
+2021-12-27 18:45:38.846352 [info] : Client[7] quit!
+2021-12-27 18:45:38.846457 [info] : Client[7](220.181.41.13:58834) quit, UserCount:0
+2021-12-27 18:46:24.847429 [info] : Client[6](220.181.41.13:5587) in, userCount:1
+2021-12-27 18:46:24.847490 [info] : Client[6] in!
+2021-12-27 18:47:24.904549 [info] : Client[6] quit!
+2021-12-27 18:47:24.904650 [info] : Client[6](220.181.41.13:5587) quit, UserCount:0
