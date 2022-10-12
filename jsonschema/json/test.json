@@ -1,0 +1,28 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "id": "http://jsonschema.net",
+    "title": "test",
+    "type": "object",
+    "properties": {
+        "name":{
+            "type":"string",
+            "maxLength":256
+        },
+        "phone":{
+            "type":"integer"
+        },
+        "area":{
+            "type":"object",
+            "properties": {
+                "ip":{
+                    "type":"string",
+                    "maxLength":63
+                },
+                "name":{
+                    "type":"string",
+                    "maxLength":63
+                }
+            }
+        }
+    }
+}
